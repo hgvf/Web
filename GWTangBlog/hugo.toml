@@ -1,0 +1,9 @@
+baseURL = 'https://hgvf.github.io/'
+languageCode = 'en-us'
+title = 'Weiwei 的 Blog'
+
+theme = "m10c"
+
+[taxonomies]
+  tag = "tags"
+  category = "category"

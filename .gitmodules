@@ -1,0 +1,4 @@
+[submodule "GWTangBlog/public"]
+	path = GWTangBlog/public
+	url = https://github.com/hgvf/hgvf.github.io.git
+	branch = main
